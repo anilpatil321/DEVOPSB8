@@ -1,2 +1,4 @@
 hi this is my first edit after git add
 this is my second line of code using echo command
+This line edited from github
+and pushed to local repo
